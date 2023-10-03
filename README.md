@@ -37,3 +37,7 @@ Specifications:
 * Input reverse polarity protection: yes. Exclusively designed ultra-low dropout prevention MOS transistor reverse polarity protection, input reverse is not working.
 * Output reflux protection: yes. Effectively prevent nocturnal reflux battery electric charge sheet!
 * Connection: there terminals
+
+
+https://forum.arduino.cc/t/power-eight-lolin32-with-one-solar-panel/1093414/3
+
