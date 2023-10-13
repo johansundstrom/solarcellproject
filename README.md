@@ -41,3 +41,9 @@ Specifications:
 
 https://forum.arduino.cc/t/power-eight-lolin32-with-one-solar-panel/1093414/3
 
+## TP4056
+
+* In: USB-C eller 5VDC
+* Out: Charge for 18650, MAX 1A, V cutoff 4.2 VDC
+* LED: red - charging, green - full
+* Charge: CC/CV, 
