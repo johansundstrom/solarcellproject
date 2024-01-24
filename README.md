@@ -46,4 +46,8 @@ https://forum.arduino.cc/t/power-eight-lolin32-with-one-solar-panel/1093414/3
 * In: USB-C eller 5VDC
 * Out: Charge for 18650, MAX 1A, V cutoff 4.2 VDC
 * LED: red - charging, green - full
-* Charge: CC/CV, 
+* Charge: CC/CV,
+
+## Nice projekt
+
+* https://randomnerdtutorials.com/power-esp32-esp8266-solar-panels-battery-level-monitoring/  
